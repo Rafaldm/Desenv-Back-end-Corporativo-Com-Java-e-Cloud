@@ -1,0 +1,25 @@
+# NetBeans
+nbproject/private/
+build/
+dist/
+*.class
+
+# Eclipse / IntelliJ (caso use)
+*.log
+*.idea/
+*.classpath
+*.project
+*.settings/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+*.iml
+
+# Arquivos temporários
+*.tmp
+*.swp
+
+# Persistência / banco
+*.db
+*.h2.db
